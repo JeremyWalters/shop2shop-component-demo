@@ -9,10 +9,11 @@
   },
   "dependencies": {
     "shop2shop-vue-components": "^0.3.6",
-    "vue": "^2.5.22",
-    "vue-class-component": "^6.0.0",
-    "vue-property-decorator": "^7.0.0",
-    "vue-router": "^3.0.1"
+    "vue": "^2.6.2",
+    "vue-class-component": "^6.3.2",
+    "vue-property-decorator": "^7.3.0",
+    "vue-router": "^3.0.2",
+    "vuetify": "^1.5.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
@@ -27,6 +28,8 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "typescript": "~3.2.2",
-    "vue-template-compiler": "^2.5.21"
+    "vue-cli-plugin-vuetify": "^0.4.6",
+    "vue-template-compiler": "^2.6.2",
+    "vuetify-loader": "^1.0.5"
   }
 }
